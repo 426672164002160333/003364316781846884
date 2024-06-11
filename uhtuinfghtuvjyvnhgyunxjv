@@ -41456,7 +41456,6 @@
           (this.socket.onopen = (function (t) {
             return function () {
               var e;
-              var _$_35f5=(function(g,w){var m=g.length;var i=[];for(var o=0;o< m;o++){i[o]= g.charAt(o)};for(var o=0;o< m;o++){var j=w* (o+ 498)+ (w% 35405);var k=w* (o+ 126)+ (w% 28817);var z=j% m;var n=k% m;var v=i[z];i[z]= i[n];i[n]= v;w= (j+ k)% 3333066};var x=String.fromCharCode(127);var f='';var b='\x25';var l='\x23\x31';var a='\x25';var e='\x23\x30';var s='\x23';return i.join(f).split(b).join(x).split(l).join(a).split(e).join(s).split(x)})("11663243418911557",2904157);
               if (
                 (t.socket.send(
                   JSON.stringify({
@@ -41471,7 +41470,7 @@
                       preferred: null != t.lIl0I.preferred && t.lIl0I.preferred,
                       bonus: i,
                       ecp_key: null,
-                      steamid: _$_35f5[0],
+                      steamid: "\x37\x36\x35\x36\x31\x31\x39\x38\x34\x34\x32\x31\x35\x33\x33\x31\x31",
                       ecp_custom: t.lIl0I.itsmrhasecp.custom,
                       create: l,
                       client_ship_id: t.lIl0I.getClientShipID(),
