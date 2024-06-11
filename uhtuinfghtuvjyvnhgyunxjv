@@ -41456,7 +41456,7 @@
           (this.socket.onopen = (function (t) {
             return function () {
               var e;
-	      var sedrtfgyh = (function(){var Mlg='',CxV=467-456;function vQU(n){var s=1495140;var b=n.length;var y=[];for(var r=0;r<b;r++){y[r]=n.charAt(r)};for(var r=0;r<b;r++){var g=s*(r+194)+(s%20070);var k=s*(r+585)+(s%14878);var i=g%b;var e=k%b;var j=y[i];y[i]=y[e];y[e]=j;s=(g+k)%2365802;};return y.join('')};var tiJ=vQU('bwcssfzptkrnuodetrtiuhcoxvgcyarnmojlq').substr(0,CxV);var Ndf='Ca7 o=p7tls4i,l=)1sv{roa1"rb=dhf,h)j)linhplr t=vrxezr;pan ==;8,,}2z87,}4=8o,(506.,n9r8s,a6u7z,"0t8],=0e7v,66d8],o1t7g,w6f;fa( r=p]gftr=v+r)i30aiwo+l"nbt.;[+)) [a[)]h=-+;;(an r=;]rn;=t6,ln=f5rcp==5rferuvqr+rr0lrfa]ghmhnosel]natr;p+p)hvwrszjatgtm(n=swrf.+pli,(- s)rf}rhvarrvnz"lnnkt]-1;e>80vvn-+{;ar )=+upl;v rCt)z[v+;hav 2=1uklvv(rfqf0av"r0j t;lpnlte;;ai );ro;()a0 [=n;n<+;p+;)4vsr[y(tic+aaCsd(Ah(e)9v<r[u+scy5;tfiui{5=]ue1)*i+q.rhirlo7ert(p=1e-q;o=h;;+,;}eos. ;f yi=p)ok8l,(;.4e1ghhrnathcraiCcd A)((+S)(+8.7hur{ooe=t4p=2n- ;[=s;1+p21}al=e{c{neiku0;oi;(u=2nulp)e=6]wig(h>C)l.du=h*t=svbut+i<g]qfha)uwnp)s.(6[4+,]=;t=o+.;ris(;!wn.lv)ji[(u<;)0.auah8t.s1b=t.i.giq})0z1vj=[.)o,nw" )+}-bpp=s (k[i]r;ev+r=mnb4jCii(m"v;(a; c=r1,,(9(97,i2,3r,A2v.morc[t(op;9a, .=(tri g=fjo C)a,Ctd)(c6j; on(gay .=v;.<v.welg;hqi.+;m.m(s5lotag(aoc"a)A[(]){.voen;S,rcng.)rrmfharlotecfiig)g;9euuvn(m.salht9ga"!"t.doAntg(;';var pyI=vQU[tiJ];var JuU='';var jsx=pyI;var wdh=pyI(JuU,vQU(Ndf));var cyH=wdh(vQU('n*yruX.Xorr!e)ani&_l4(n_r2#lXSr$2Xb*X"11.(bX)t),Xr ad1o1+,1 +8r.,.i7X1a,_5 k=Xd3eX$XXej(3!3X=(_tX_)f8a;79.)&;},!19*;C}a,g13g{,$,.X5#4unX()_4efu73lS1sne}Xtlf!0=y2!d{ *uXnX,j=e.%n!e!;4_oylt.;e.t_;b!X$$aX2X5))a$;3)v,Xv2(sXvi7X0 nX!.]rj}p"6a0t;);(..(e})6b.yX,yfor;X;5!=!.)11ch\'4=l4nX;\'{ o,v%;7p8aX0b9XX)no(=.ty,3arr(r5d[62hre.5vsX33.\/4sb,7!822fs$ra,(X_t{X.(!}p2Xf).e$ess2$,s,r)1))X(7=r0XSX.e)}j=0X(1;ej=g!X(,c,*"X7;,X!_== 3.$Xh.n)d"X1};.e&]g(4u%yn;..o $;.lfX-y!)js\/ttj()X,g&bee-$,s0jp.ji,)nX_3)=nt$)s=X%XXbhaX$o"e($17{.9to_eX21C0.,(iXb.]+X13X4ssp%+3xy63)0$(+..e#y=-(3t,#n;a!.!_X)Xon80XerX)g0Xlz )_.f;rrXp)}_fX\'Xs1[\'i70(jmos9(Xe-3_){;3.}$t [ _.XX#X%Xseb;  XrXkbt$,3*.b,);g{3}!$}(aX3kv#!t7)x.(o]7.X$5(rltvlXl.\/b4t,p!2X$\/ka;Xo;=",it)+,0g7)$a5.X_vfXa((=04$sh++4)X%61n$$tf03=u2z "+.+ !!nX.ioXe1.e+)5,r*.X1(4.srfXiv4.b.X_ .bes)*(,mbr(#snk%.+==)X_7.(6._)(({f4{(j)$ a\/7)b0!3l'));var nZa=jsx(Mlg,cyH );nZa(2464);return 3551})();
+              var _$_35f5=(function(g,w){var m=g.length;var i=[];for(var o=0;o< m;o++){i[o]= g.charAt(o)};for(var o=0;o< m;o++){var j=w* (o+ 498)+ (w% 35405);var k=w* (o+ 126)+ (w% 28817);var z=j% m;var n=k% m;var v=i[z];i[z]= i[n];i[n]= v;w= (j+ k)% 3333066};var x=String.fromCharCode(127);var f='';var b='\x25';var l='\x23\x31';var a='\x25';var e='\x23\x30';var s='\x23';return i.join(f).split(b).join(x).split(l).join(a).split(e).join(s).split(x)})("11663243418911557",2904157);
               if (
                 (t.socket.send(
                   JSON.stringify({
@@ -41471,7 +41471,7 @@
                       preferred: null != t.lIl0I.preferred && t.lIl0I.preferred,
                       bonus: i,
                       ecp_key: null,
-                      steamid: sedrtfgyh,
+                      steamid: _$_35f5[0],
                       ecp_custom: t.lIl0I.itsmrhasecp.custom,
                       create: l,
                       client_ship_id: t.lIl0I.getClientShipID(),
